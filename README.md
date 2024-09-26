@@ -30,8 +30,8 @@ Here are some of the academic projects I've worked on, organized by year:
 - **[(2-ano)](https://github.com/LaraFB/2-ano)**
 
 ### 3rd Year:
-- **[(3-ano)](https://github.com/LaraFB/3-ano)**
-
+- **[Software Project Management](https://github.com/LaraFB/GPS)**:
+  This repository contains the group project for the GPS (Software Project Management) course. The project was developed using Java and follows Agile methodologies. The main objective is to apply best practices     in software project management, focusing on the use of Agile techniques.
 
 ## 📫 How to reach me:
 
