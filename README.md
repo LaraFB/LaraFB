@@ -23,7 +23,7 @@ On my GitHub, you'll find projects and experiments that I've developed during my
 Here are some of the academic projects I've worked on, organized by year:
 
 ### 1st Year:
-- **[(1-ano)](https://github.com/LaraFB/1-ano)**
+- **[(LS)](https://github.com/SophieRC/Trabalho_LS.git)**
   
 
 ### 2nd Year:
