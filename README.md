@@ -23,15 +23,29 @@ On my GitHub, you'll find projects and experiments that I've developed during my
 Here are some of the academic projects I've worked on, organized by year:
 
 ### 1st Year:
-- **[(LS)](https://github.com/SophieRC/Trabalho_LS.git)**
-  
+
+- **[IP_EX](https://github.com/LaraFB/IP_EX.git)**
+- **[TWEB](https://github.com/LaraFB/TWEB.git)**
+- **[P](https://github.com/LaraFB/P.git)**
+- **[LS](https://github.com/LaraFB/Trabalho_LS.git)**
+- **[TAC](https://github.com/LaraFB/TAC.git)**
+- **[FFCG](https://github.com/LaraFB/FCG_Project.git))**
+- **[FCG](https://github.com/LaraFB/FCG.git)**
 
 ### 2nd Year:
-- **[(2-ano)](https://github.com/LaraFB/2-ano)**
+
+- **[(BD)](https://github.com/LaraFB/2-ano)**
+- **[(IIA)](https://github.com/LaraFB/IIA)**
+- **[(SO)](https://github.com/LaraFB/SO)**
+- **[(Gestão)](https://github.com/LaraFB/Gestao)**
+- **[(MD)](https://github.com/LaraFB/MD)**
+- **[(SO2)](https://github.com/LaraFB/SO2)**
+- **[(CR)](https://github.com/LaraFB/CR)**
 
 ### 3rd Year:
-- **[Software Project Management](https://github.com/LaraFB/GPS)**:
-  This repository contains the group project for the GPS (Software Project Management) course. The project was developed using Java and follows Agile methodologies. The main objective is to apply best practices     in software project management, focusing on the use of Agile techniques.
+
+- **[GPS](https://github.com/LaraFB/GPS)**: This repository contains the group project for the Software Project Management course. The project was developed using Java and follows Agile methodologies. The main objective is to apply best practices in software project management, focusing on the use of Agile techniques.
+- **[(Calculadora_AMOV)](https://github.com/LaraFB/Calculadora_AM.git)**
 
 ## 📫 How to reach me:
 
