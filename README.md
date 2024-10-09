@@ -52,4 +52,4 @@ Here are some of the academic projects I've worked on, organized by year:
 - LinkedIn: [Lara Filipa da Silva Bizarro](https://www.linkedin.com/in/lara-bizarro/)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)](https://github.com/SEU_USUARIO/SEU_REPOSITORIO)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)](https://github.com/LaraFB)
