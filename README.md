@@ -25,8 +25,8 @@ Here are some of the academic projects I've worked on, organized by year:
 ### 1st Year:
 
 - **[IP_EX](https://github.com/LaraFB/IP_EX.git)** : This repository contains exercises developed in C for the Introduction to Programming course.
-- **[TWEB](https://github.com/LaraFB/TWEB.git)**
-- **[P](https://github.com/LaraFB/P.git)**
+- **[TWEB](https://github.com/LaraFB/TWEB.git)** : This repository contains a group project (2 people) for the Web Technology course. The project was developed using HTML, CSS, and JavaScript. The objective was to recreate an existing portuguese real estate website using only HTML and CSS, and to add a loan simulator function using JavaScript.
+- **[P](https://github.com/LaraFB/P.git)** : This repository contains an individual project for the Programming course. The project was developed in C. The objective of the project was to create the Ultimate Tic Tac Toe game using linked lists and dynamic arrays.
 - **[LS](https://github.com/SophieRC/Trabalho_LS.git)**
 - **[TAC](https://github.com/LaraFB/TAC.git)**
 - **[FFCG](https://github.com/LaraFB/FCG_Project.git)**
