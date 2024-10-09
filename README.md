@@ -27,9 +27,9 @@ Here are some of the academic projects I've worked on, organized by year:
 - **[IP_EX](https://github.com/LaraFB/IP_EX.git)**
 - **[TWEB](https://github.com/LaraFB/TWEB.git)**
 - **[P](https://github.com/LaraFB/P.git)**
-- **[LS](https://github.com/LaraFB/Trabalho_LS.git)**
+- **[LS](https://github.com/SophieRC/Trabalho_LS.git)**
 - **[TAC](https://github.com/LaraFB/TAC.git)**
-- **[FFCG](https://github.com/LaraFB/FCG_Project.git))**
+- **[FFCG](https://github.com/LaraFB/FCG_Project.git)**
 - **[FCG](https://github.com/LaraFB/FCG.git)**
 
 ### 2nd Year:
