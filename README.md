@@ -34,13 +34,13 @@ Here are some of the academic projects I've worked on, organized by year:
 
 ### 2nd Year:
 
-- **[(BD)](https://github.com/LaraFB/2-ano)**
-- **[(IIA)](https://github.com/LaraFB/IIA)**
-- **[(SO)](https://github.com/LaraFB/SO)**
-- **[(Gestão)](https://github.com/LaraFB/Gestao)**
-- **[(MD)](https://github.com/LaraFB/MD)**
-- **[(SO2)](https://github.com/LaraFB/SO2)**
-- **[(CR)](https://github.com/LaraFB/CR)**
+- **[BD](https://github.com/LaraFB/BD)**
+- **[IIA](https://github.com/LaraFB/IIA)**
+- **[SO](https://github.com/LaraFB/SO)**
+- **[Gestão](https://github.com/LaraFB/Gestao)**
+- **[MD](https://github.com/LaraFB/MD)**
+- **[SO2](https://github.com/LaraFB/SO2)**
+- **[CR](https://github.com/LaraFB/CR)**
 
 ### 3rd Year:
 
@@ -49,7 +49,6 @@ Here are some of the academic projects I've worked on, organized by year:
 
 ## 📫 How to reach me:
 
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/lara-bizarro/)
-- GitHub: [@your-username](https://github.com/LaraFB)
+- LinkedIn: [Lara Filipa da Silva Bizarro](https://www.linkedin.com/in/lara-bizarro/)
 
 ---
