@@ -27,10 +27,10 @@ Here are some of the academic projects I've worked on, organized by year:
 - **[IP_EX](https://github.com/LaraFB/IP_EX.git)** : This repository contains exercises developed in C for the Introduction to Programming course.
 - **[TWEB](https://github.com/LaraFB/TWEB.git)** : This repository contains a group project (2 people) for the Web Technology course. The project was developed using HTML, CSS, and JavaScript. The objective was to recreate an existing portuguese real estate website using only HTML and CSS, and to add a loan simulator function using JavaScript.
 - **[P](https://github.com/LaraFB/P.git)** : This repository contains an individual project for the Programming course. The project was developed in C. The objective of the project was to create the Ultimate Tic Tac Toe game using linked lists and dynamic arrays.
-- **[LS](https://github.com/SophieRC/Trabalho_LS.git)**
-- **[TAC](https://github.com/LaraFB/TAC.git)**
-- **[FFCG](https://github.com/LaraFB/FCG_Project.git)**
-- **[FCG](https://github.com/LaraFB/FCG.git)**
+- **[LS](https://github.com/SophieRC/Trabalho_LS.git)** : This repository contains a group project (3 people) for the Scripting Languages course. The project was developed in JavaScript using the React framework. The objective of the project was to create a word search game.
+- **[TAC](https://github.com/LaraFB/TAC.git)** : This repository contains a group project (2 people) for the Computer Technologies and Architectures course. The project was developed in x86 Assembly. The objective of the project was to create the Ultimate Tic Tac Toe game.
+- **[FFCG](https://github.com/LaraFB/FCG_Project.git)** : This repository contains the first individual project for the Fundamentals of Computer Graphics course. The project was developed in Blender. The objective of the project was to create a short video with the theme of War and Peace.
+- **[FCG](https://github.com/LaraFB/FCG.git)** : This repository contains an individual project for the Fundamentals of Computer Graphics course. The project was developed in Blender. The objective of the project was to create a short video with the theme of dream vacation.
 
 ### 2nd Year:
 
