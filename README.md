@@ -53,7 +53,4 @@ Here are some of the academic projects I've worked on, organized by year:
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaraFB&layout=compact&langs_count=5&theme=dark)](https://github.com/LaraFB)
-
-[![LaraFB's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaraFB&show_icons=true&theme=dark)](https://github.com/LaraFB)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LaraFB&theme=dark)](https://git.io/streak-stats)
-[![LaraFB's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=LaraFB&theme=github-dark)](https://github.com/LaraFB)
