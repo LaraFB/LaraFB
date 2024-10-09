@@ -24,7 +24,7 @@ Here are some of the academic projects I've worked on, organized by year:
 
 ### 1st Year:
 
-- **[IP_EX](https://github.com/LaraFB/IP_EX.git)**
+- **[IP_EX](https://github.com/LaraFB/IP_EX.git)** : This repository contains exercises developed in C for the Introduction to Programming course.
 - **[TWEB](https://github.com/LaraFB/TWEB.git)**
 - **[P](https://github.com/LaraFB/P.git)**
 - **[LS](https://github.com/SophieRC/Trabalho_LS.git)**
@@ -44,8 +44,8 @@ Here are some of the academic projects I've worked on, organized by year:
 
 ### 3rd Year:
 
-- **[GPS](https://github.com/LaraFB/GPS)**: This repository contains the group project for the Software Project Management course. The project was developed using Java and follows Agile methodologies. The main objective is to apply best practices in software project management, focusing on the use of Agile techniques.
-- **[(Calculadora_AMOV)](https://github.com/LaraFB/Calculadora_AM.git)**
+- **[GPS](https://github.com/LaraFB/GPS)** : This repository contains the group project for the Software Project Management course. The project was developed using Java and follows Agile methodologies. The main objective is to apply best practices in software project management, focusing on the use of Agile techniques.
+- **[(Calculadora_AMOV)](https://github.com/LaraFB/Calculadora_AM.git)** : This repository contains an exercise developed in Java and Kotlin for the Mobile Applications (AMOV) course, created using Android Studio.
 
 ## 📫 How to reach me:
 
