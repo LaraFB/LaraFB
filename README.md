@@ -35,7 +35,7 @@ Here are some of the academic projects I've worked on, organized by year:
 ### 2nd Year:
 
 - **[BD](https://github.com/LaraFB/BD)** : This repository contains a group project (4 people) for the Database course. The objective of the project was to plan and develop a database for a clothing store.
-- **[IIA](https://github.com/LaraFB/IIA)**
+- **[IIA](https://github.com/LaraFB/IIA)** This repository contains two group projects (2 people) for the Introduction of Artificial Inteligence course. The projects were developed in Netlogo and C. The first one was made in netlogo and involved creating a simulation of animals and food, as well as testing hypotheses proposed by us.
 - **[SO](https://github.com/LaraFB/SO)**
 - **[Gestão](https://github.com/LaraFB/Gestao)**
 - **[MD](https://github.com/LaraFB/MD)**
