@@ -37,10 +37,10 @@ Here are some of the academic projects I've worked on, organized by year:
 - **[BD](https://github.com/LaraFB/BD)** : This repository contains a group project (4 people) for the Database course. The objective of the project was to plan and develop a database for a clothing store.
 - **[IIA](https://github.com/LaraFB/IIA)** : This repository contains two group projects (2 people) for the Introduction of Artificial Inteligence course. The projects were developed in Netlogo and C. The first one was made in netlogo and involved creating a simulation of animals and food, as well as testing hypotheses proposed by us (netlogo). The second project focuses on solving optimization problems by implementing various algorithms and analyzing the results. The algorithms used include the local search algorithm (simulated annealing), the evolutionary algorithm (penalized evaluation, tournament, crossover, and mutation), and the hybrid algorithm (repaired evaluation, tournament, crossover, and mutation).
 - **[SO](https://github.com/LaraFB/SO)** : This repository contains a group project (2 people) for the Operating Systems course. The project was developed in C. The objective of the project was to create a server and a client in Linux, where the server sends a maze game to the client and the client plays the game.
-- **[Gestão](https://github.com/LaraFB/Gestao)**
-- **[MD](https://github.com/LaraFB/MD)**
-- **[SO2](https://github.com/LaraFB/SO2)**
-- **[CR](https://github.com/LaraFB/CR)**
+- **[Gestão](https://github.com/LaraFB/Gestao)** : This repository contains a group project (5 people) for the Management course. The project involves the planning of a business project and includes a business plan.
+- **[MD](https://github.com/LaraFB/MD)** : This repository contains a project developed for the Modeling and Design (MD) course. The repository includes reports and diagrams/models.
+- **[SO2](https://github.com/LaraFB/SO2)** : This repository contains a group project (2 people) for the Operating Systems 2 course. The project was developed in C. The objective was to create a stock market system in Windows, where there is a client, a server (which communicates with the client by receiving requests and sending messages, and with the board by sending companies and their stock values), and a board (which displays the top 10 companies).
+- **[CR](https://github.com/LaraFB/CR)** : The repository contains a group project (2 people) for the Knowledge and Reasoning course. The project was developed in MATLAB. The objective was to study, train, and analyze neural networks in the context of medical diagnosis for hepatitis.
 
 ### 3rd Year:
 
