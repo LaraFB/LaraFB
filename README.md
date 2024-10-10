@@ -49,7 +49,7 @@ Here are some of the academic projects I've worked on, organized by year:
 
 ## 📫 How to reach me:
 
-- LinkedIn: [Lara Filipa da Silva Bizarro](https://www.linkedin.com/in/lara-bizarro/)
+- LinkedIn: [Lara Bizarro](https://www.linkedin.com/in/lara-bizarro/)
 
 
 ### 📊 GitHub Statistics
