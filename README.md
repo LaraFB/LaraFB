@@ -46,7 +46,7 @@ Here are some of the academic projects I've worked on, organized by year:
 
 - **[GPS](https://github.com/LaraFB/GPS)** : This repository contains the group project for the Software Project Management course. The project was developed using Java and follows Agile methodologies. The main objective is to apply best practices in software project management, focusing on the use of Agile techniques.
 - **[(Calculadora_AMOV)](https://github.com/LaraFB/Calculadora_AM.git)** : This repository contains an exercise developed in Java and Kotlin for the Mobile Applications (AMOV) course, created using Android Studio.
-- **[AMOV2]()** : This repository contains a group project (3 people) for the Mobile Applications course. The project was developed using Flutter. The main objective it was to create a contacts app.
+- **[AMOV2](https://github.com/LaraFB/Contacts_App.git)** : This repository contains a group project (3 people) for the Mobile Applications course. The project was developed using Flutter. The main objective it was to create a contacts app.
 - 
 
 ## 📫 How to reach me:
