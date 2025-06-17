@@ -37,6 +37,8 @@ Here are some of the academic projects I've worked on, organized by year:
   - **[MD](https://github.com/LaraFB/MD)**
   - **[SO2](https://github.com/LaraFB/SO2)** 
   - **[CR](https://github.com/LaraFB/CR)**
+  - **[PA](https://github.com/Programacao-Avancada-2025/tp-group-16)**
+
   
   ### 3rd Year:
   - **[GPS](https://github.com/LaraFB/GPS)**
