@@ -39,11 +39,13 @@ Here are some of the academic projects I've worked on, organized by year:
   - **[SO2](https://github.com/LaraFB/SO2)** 
   - **[CR](https://github.com/LaraFB/CR)**
   - **[PA](https://github.com/Programacao-Avancada-2025/tp-group-16)**
+  - **[PA]([https://github.com/Programacao-Avancada-2025/tp-group-16](https://github.com/LaraFB/PA-Xadrez.git))**
 
   
   ### 3rd Year:
   - **[GPS](https://github.com/LaraFB/GPS)**
-  - **[(Calculadora_AMOV)](https://github.com/LaraFB/Calculadora_AM.git)** 
+  - **[(Calculadora_AMOV)](https://github.com/LaraFB/Calculadora_AM.git)**
+  - **[AMOV1](https://github.com/LaraFB/AMOV1.git)**
   - **[AMOV2](https://github.com/LaraFB/Contacts_App.git)**
   - **[PD](https://github.com/LaraFB/PD.git)**
   - **[PWEB](https://github.com/LaraFB/PWEB.git)**
