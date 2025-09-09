@@ -39,7 +39,7 @@ Here are some of the academic projects I've worked on, organized by year:
   - **[SO2](https://github.com/LaraFB/SO2)** 
   - **[CR](https://github.com/LaraFB/CR)**
   - **[PA](https://github.com/Programacao-Avancada-2025/tp-group-16)**
-  - **[PA]([https://github.com/Programacao-Avancada-2025/tp-group-16](https://github.com/LaraFB/PA-Xadrez.git))**
+  - **[PA2](https://github.com/LaraFB/PA-Xadrez.git)**
 
   
   ### 3rd Year:
