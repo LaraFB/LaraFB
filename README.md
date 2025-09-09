@@ -44,7 +44,7 @@ Here are some of the academic projects I've worked on, organized by year:
   - **[GPS](https://github.com/LaraFB/GPS)**
   - **[(Calculadora_AMOV)](https://github.com/LaraFB/Calculadora_AM.git)** 
   - **[AMOV2](https://github.com/LaraFB/Contacts_App.git)**
-- 
+  - **[PD](https://github.com/LaraFB/PD.git)**
 
 ## 📫 How to reach me:
 
