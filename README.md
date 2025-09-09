@@ -1,12 +1,13 @@
 # Hi! I'm Lara Bizarro 👋
 
-I'm a **Computer Engineering** student at **ISEC** (Instituto Superior de Engenharia de Coimbra), passionate about technology, programming, and problem-solving.
+I'm a **Computer Engineering** graduate from **ISEC** (Instituto Superior de Engenharia de Coimbra), passionate about technology, programming, and problem-solving.
 On my GitHub, you'll find projects that I've developed during my academic journey in the **Application Development** branch of my degree.
 
 ## 🌱 What I'm currently learning:
 
 - Web Development: HTML, CSS/SASS, JavaScript, React
-- Programming Languages:  C, C++, C#, Java, Assembly (x86), SQL
+- Programming Languages:  C, C++, C#, Java, Kotlin, Dart (Flutter), Python, Assembly (x86), SQL
+- Frameworks & Platforms: .NET, Java Spring Boot, Flutter, Promptflow
 - Development Tools: Blender, Android Studio, Intellij, Visual Studio, Matlab, GIt, GitLab
 - Algorithms and Data Structures
 - Operating Systems: Linux, Windows
